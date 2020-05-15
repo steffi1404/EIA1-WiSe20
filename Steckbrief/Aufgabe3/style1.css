@@ -1,0 +1,23 @@
+
+h1 {
+
+    color: black;
+    font-family: sans-serif;
+}
+
+li {
+
+    display: inline;
+    font-family: sans-serif;
+    list-style-type: none;
+    background-color: black;
+    padding: 4px 0;
+    border-top: 3px  black;
+    border-bottom: 3px black;
+    margin: 0;}
+
+main { display: flex;
+       justify-content: center;
+       align-items: center;
+
+}
