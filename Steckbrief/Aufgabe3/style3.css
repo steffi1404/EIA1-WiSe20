@@ -9,11 +9,6 @@ li {
     margin: 0;
     padding-left: 50px;
     padding-right: 10px;
-    position: absolute;
-    top: 0px;
-    left: 50px;
-
-
 }
 
  li a{ 
@@ -27,20 +22,20 @@ li {
 
 }
 
+h2{ 
+    font-size: x-large;
+    font-weight: bold;
+    color: #006680;
 
-    h2{ 
-        font-size: x-large;
-        font-weight: bold;
+}
 
-    }
-    div {
+div {
 
-      
-        width: 800px;
-        padding: 50px;
-        margin: 20px;
-        font-size: medium;
-        font-weight: normal;
-        text-align: left;
-        font-family: sans-serif;
-      }
+    width: 800px;
+    padding: 50px;
+    margin: 20px;
+    font-size: medium;
+    font-weight: normal;
+    text-align: left;
+    font-family: sans-serif;
+}

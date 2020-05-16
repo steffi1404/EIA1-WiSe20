@@ -26,3 +26,17 @@ li {
     display: block;
 
 }
+
+div {
+
+      
+    width: 800px;
+    padding: 50px;
+    margin: 20px;
+    font-size: medium;
+    font-weight: normal;
+    text-align: left;
+    font-family: sans-serif;
+  }
+
+ div p1 {}
