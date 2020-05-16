@@ -35,9 +35,8 @@ li {
     }
     div {
 
-        background-color: #d2d3d3;
+      
         width: 800px;
-        border: 10px solid rgba(0, 0, 0, 0.705);
         padding: 50px;
         margin: 20px;
         font-size: medium;
