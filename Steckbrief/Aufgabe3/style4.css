@@ -1,7 +1,7 @@
 .icon{
   position: absolute;
   bottom: 540px;
-  left: 940px;
+  left: 953px;
   opacity: 0.8;
   max-width: 3%;
   height: auto;
@@ -45,7 +45,7 @@ li a:hover {
 
 
 li a.aktiv{
-  color: orange;
+  color: #04f7ff;
   font-weight: 1000;
 }
 
@@ -56,8 +56,6 @@ li a.aktiv{
   font-weight: bold;
   color: #006680;
 }
-
-
 
 
 
@@ -109,12 +107,3 @@ text-align: center;
 .uber{
 margin-left:50px;
 }
-
-main div p {
-
-text-align: left;
-font-family: sans-serif;
-color: #006680;
-}
-
-

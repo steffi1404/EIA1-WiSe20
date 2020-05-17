@@ -1,7 +1,7 @@
 .icon{
   position: absolute;
   bottom: 540px;
-  left: 940px;
+  left: 945px;
   opacity: 0.8;
   max-width: 3%;
   height: auto;
@@ -45,7 +45,7 @@ li a:hover {
 
 
 li a.aktiv{
-  color: orange;
+  color: #04f7ff;
   font-weight: 1000;
 }
 
