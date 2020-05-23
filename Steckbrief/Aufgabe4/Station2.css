@@ -1,75 +1,68 @@
 
-    .Karte {
+.Karte {
         position: absolute;
         top: 20px;
         ;
     }
     
-    .Muschel1 {
-        background-image: url(https://raw.githubusercontent.com/steffi1404/EIA1-SoSe20/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel.png);
-        position: relative;
-        height: 62px;
-        width: 70px;
-        left: -50px;
-        top: 200px;
-        
-    }
+.Muschel1 {
+    position: sticky;
+    background-image: url("https://raw.githubusercontent.com/steffi1404/EIA1-SoSe20/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel.png");
+    height: 62px;
+    width: 70px;
+    left: -140px;
+    margin-left: -50px;
+}
 
-    .Muschel1:hover {
+.Muschel2:hover{
+    background-image: url("https://raw.githubusercontent.com/steffi1404/EIA1-SoSe20/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel_perle.png");
+}
 
-        background-image: url(https://github.com/steffi1404/EIA1-SoSe20/blob/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel_perle1.png);
-    }
+.Muschel2{
+    position: sticky;
+    background-image: url("https://raw.githubusercontent.com/steffi1404/EIA1-SoSe20/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel.png");
+    height: 62px;
+    width: 70px;
+    left: 0px;
+    margin-left: 50px;
+}
 
+.Muschel3{
+    position: sticky;
+    background-image: url("https://raw.githubusercontent.com/steffi1404/EIA1-SoSe20/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel.png");
+    width: 70px;
+    height: 62px;
+    margin-left: 50px;
+}
 
-    .Muschel2 {
-        background-image: url(https://raw.githubusercontent.com/steffi1404/EIA1-SoSe20/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel.png);
-        position: relative;
-        height: 62px;
-        width: 70px;
-        left: 0px;
-        top: 200px;
-          
-    }
-
-    .Muschel2:hover {
-
-        background-image: url(https://github.com/gabriel-rausch/EIA1-SoSe20/blob/master/L04/task_material/Station_2_Hover/images/muschel_perle.png);
-    }
-
-    .Muschel3 {
-        background-image: url(https://raw.githubusercontent.com/steffi1404/EIA1-SoSe20/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel.png);
-        position: relative;
-        height: 62px;
-        width: 70px;
-        left: 50px;
-        top: 200px;
-        
-    }
-
-    .Muschel3:hover {
-
-        background-image: url(https://github.com/gabriel-rausch/EIA1-SoSe20/blob/master/L04/task_material/Station_2_Hover/images/muschel_perle.png);
-    } 
-    
-
-    .div1 {
-        position: relative;
-        justify-content: center;
-        align-items: center;
-        margin-right: auto;
-        margin-bottom: auto;
-        margin-left: auto;
-        margin-top: 150px;
-        display: flex;
+.div1 {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-top: 150px;
+    display: flex;
        
     }
     
-    .Überschrift {
-        position: absolute;
-        font-size: 25px;
-        display: inline-block;
-        top: 50px;
-        font-style: sans-serif;
-        color: whitesmoke;
+.Überschrift {
+    position: absolute;
+    font-size: 40px;
+    display: inline-block;
+    top: 50px;
+    font-style: sans-serif;
+    color: rgb(72, 72, 163);
     }
     
+.div2 {
+    align-items: center;
+    position: fixed;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: 50px;
+    margin-top: 450px;
+    display: flex;
+           
+    }
