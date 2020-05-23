@@ -39,9 +39,8 @@
         color: whitesmoke;
         left: 540px;}
 
-        @font-face {
-            src: url(https://steffi1404.github.io/EIA1-SoSe20/Steckbrief/Aufgabe4/Font/JellykaDeliciousCake.ttf);
-            font-family: jelly; 
-        }
-
+    
+    @font-face {
+            font-family: 'jelly';
+            src: url("https://steffi1404.github.io/EIA1-SoSe20/Steckbrief/Aufgabe4/Font/JellykaDeliciousCake.ttf");
     
