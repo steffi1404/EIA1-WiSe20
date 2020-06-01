@@ -49,3 +49,4 @@ console.log("Die Emission von South America ist:" + SouthAmerica18 + "kg CO2");
 console.log("Relativ zur Gesamtemisson der Welt verursacht South America damit" + (SouthAmerica18 / Gesamt * 100) + "%");
 console.log("Für South America hat sich 2018 im Vergleich zu 2008 die Emission um" + ((SouthAmerica18 - SouthAmerica08) / SouthAmerica18 * 100) + "% verändert");
 console.log("2018 im Vergleich zu 2008 sind das" + (SouthAmerica18 - SouthAmerica08) + "kg CO2");
+//# sourceMappingURL=script.js.map
