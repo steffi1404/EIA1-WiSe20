@@ -78,7 +78,7 @@ window.addEventListener("load", function () {
     document.querySelector(".africa").addEventListener("click", Africa);
     //*ASIA*//
     function Asia() {
-        document.querySelector("#emission").innerHTML = absoluteAS;
+        document.querySelector("#emission").innerHTML = EmissionAS;
         document.querySelector("#emissiont").innerHTML = "Emission absolute of Asia in 2018";
         document.querySelector("#relative").innerHTML = RelativeAS.toFixed(2) + "%";
         document.querySelector("#relativet").innerHTML = "Relative to total world's emission";
