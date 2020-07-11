@@ -1,3 +1,4 @@
+//Funktioniert mit Chrome am besten//
 interface Task {
     todosText: string;
     todosChecked: boolean;
