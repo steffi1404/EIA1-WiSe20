@@ -106,3 +106,15 @@ main {
 .trash:hover {
     color: rgb(255, 255, 255);
 }
+
+#Cat{
+font-size: 50px;
+margin-left: -350px;
+color: white;
+}
+
+#myclock {
+
+left: 1000px;
+
+}
